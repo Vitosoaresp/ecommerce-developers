@@ -55,7 +55,7 @@ export function Cart({ isOpenCart }: ICartProps) {
           onClick={() => setIsOpenCart(false)}
           className="flex md:hidden fixed right-10 top-10 cursor-pointer"
         >
-          <X className="text-5xl" weight="bold" />
+          <X className="text-5xl dark:text-white" weight="bold" />
         </button>
         <div className={`flex flex-col justify-start h-full gap-2 w-full ${cart.length > 6 && 'overflow-y-scroll'} scroll-smooth`}>
           {cart.length === 0 && <p className='text-center font-bold dark:text-zinc-300'>Seu carrinho está vazio</p>}
