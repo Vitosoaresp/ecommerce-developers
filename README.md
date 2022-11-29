@@ -1,5 +1,8 @@
 # E-commerce for developers
 
+![image](https://user-images.githubusercontent.com/23152592/204630736-abc4b6f1-4fdc-4e96-8a13-aface499800d.png)
+
+
 # Contexto
 Este projeto trata-se de um e-commerce para desenvolvedores, onde é possível navegar entre os produtos por categoria, adicionar e remove-lo do carrinho, filtrar só para os que contém frete grátis, e ordernar por preço.
 
@@ -30,3 +33,7 @@ npm install
   ```
     npm run dev
   ```
+
+![image](https://user-images.githubusercontent.com/23152592/204630801-dec8b4b3-3bab-42c8-b6f4-454bd1843ec0.png)
+![image](https://user-images.githubusercontent.com/23152592/204630883-9dfa2455-a766-4c69-a03d-4c62a84c413d.png)
+
